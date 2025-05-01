@@ -1,8 +1,0 @@
-{
-    "functions": {
-      "api/index.js": {
-        "runtime": "node22.x"
-      }
-    }
-}
-  
